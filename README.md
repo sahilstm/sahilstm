@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Sahil (@sahilstm)
 
-I'm a creative and detail-oriented **Frontend Developer**, **UI/UX Designer**, and the founder of **Level Up Solutions**, a digital agency focused on helping brands, startups, and institutions thrive online. With 3+ years of hands-on experience, I’ve worked across diverse industries including EdTech, HealthTech, E-commerce, and CivicTech, delivering full-stack solutions that are fast, scalable, and user-centric.
+I'm a creative and detail-oriented **Full-Stack Developer**, **UI/UX Designer**, and the founder of **Level Up Solutions**, a digital agency focused on helping brands, startups, and institutions thrive online. With 3+ years of hands-on experience, I’ve worked across diverse industries including EdTech, HealthTech, E-commerce, and CivicTech, delivering full-stack solutions that are fast, scalable, and user-centric.
 
 ---
 
@@ -33,7 +33,7 @@ I'm a creative and detail-oriented **Frontend Developer**, **UI/UX Designer**, a
 **DevOps & Deployment:**
 - Git, GitHub, GitLab
 - Netlify, Vercel, Render, AWS (EC2, S3 basics)
-- CI/CD basics, Docker (learning)
+- CI/CD basics, Docker
 
 **Tools I Love:**
 - VS Code, Postman, Notion, Trello, ChatGPT, Raycast (macOS)
