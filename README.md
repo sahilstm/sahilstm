@@ -17,11 +17,11 @@ I'm a creative and detail-oriented **Full-Stack Developer**, **UI/UX Designer**,
 
 **Languages & Frameworks:**
 - JavaScript, TypeScript, HTML, SCSS, CSS
-- React.js, Next.js, Angular
+- React.js, Next.js, Angular, React-Native-Expo And React-Native
 - Node.js, Express.js
 
 **UI Libraries & Tools:**
-- Tailwind CSS, ShadCN, Chakra UI, Material UI
+- Tailwind CSS, ShadCN, Chakra UI, Material UI, Bootstrap, SCSS
 - Framer Motion, GSAP
 - Figma, Canva, Adobe XD (UI Design)
 
